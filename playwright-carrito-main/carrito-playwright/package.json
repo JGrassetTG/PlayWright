@@ -22,8 +22,11 @@
     "@playwright/test": "^1.56.1",
     "@types/node": "^24.9.2"
   },
-  "dependencies": {
-    "dotenv": "^17.2.3",
-    "parser": "^0.1.4"
-  }
+"dependencies": {
+  "dotenv": "^17.2.3",
+  "parser": "^0.1.4",
+  "csv-parser": "^3.0.0"
+}
+
+
 }
